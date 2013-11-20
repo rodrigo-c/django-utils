@@ -18,9 +18,9 @@ setup(
     author_email='rodrigo@areaweb.cl',
     description='Some utilities for Django dev.',
     long_description=__doc__,
-    py_modules=['dj_static'],
+    py_modules=['utils'],
     zip_safe=False,
-    install_requires=['static'],
+    install_requires=[''],
     include_package_data=True,
     platforms='any',
     classifiers=[
